@@ -1,0 +1,26 @@
+.body{
+    background-color: black;
+    width: 256px;
+}
+.dis input{
+    background-color: #333333;
+    color: whitesmoke;
+    width: 230px;
+    height: 50px;
+    font-size: 25px;
+    margin: 10px;
+}
+.number .more{
+    background-color: #A5A5A5;
+}
+.number input{
+    background-color: gray;
+    border: 1px solid black;
+    margin: 5px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+.number .new{
+    background-color:#FF9F0A;
+}
